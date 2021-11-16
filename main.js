@@ -21,7 +21,11 @@ const quiz = [
     {name:"Togo", capital:"Lome"},
     {name:"Burkina Faso", capital:"Yamossoukro"},
     {name:"Benin", capital:"Conakry" },
-    {name:"Liberia", capital:"Freetown" }
+    {name:"Liberia", capital:"Freetown" },
+    {name:"South Africa", capital:"Johannesburg"},
+    {name:"Rwanda", capital:"Kigali"},
+    {name:"Zimbabwe", capital:"Harare"},
+    {name:"Egypt", capital:"Cairo"}
       ];
 const view = {
     score : document.querySelector("#score strong"),
